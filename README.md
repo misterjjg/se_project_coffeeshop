@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+To improve this project I would change the recipes section because it looks too bland. By adding a more visually appealing background or some sort of animation to the videos would make the section pop more.
