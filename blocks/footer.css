@@ -18,7 +18,6 @@
 .footer__content-social {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
 }
 
 .footer__social-heading {
